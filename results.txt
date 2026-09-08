@@ -1,0 +1,53 @@
+ENCRYPTION AND DECRYPTION DEMO
+These keys are generated only for this class.
+=== SYMMETRIC ENCRYPTION (FERNET) ===
+Key used for encryption and decryption: HGTRD7jUA43S7rwkTaxANJ0wyIn2usGHv8AbDmI51Pw=
+Input: Hello, this is my secret message!
+Encrypted output: gAAAAABqoAdSi4nI8ICZgGqU5CGOoiTrJgcxPY_nUdddwrr7djh-GkCx3rSfqrZSYITlScgppvye1eqocPuaIetPmDXMP6fbSixT_ulpBc62gjOeivFi3g1iB1UO-pjbeKl4V4ECbYPE
+Decrypted output: Hello, this is my secret message!
+
+=== ASYMMETRIC ENCRYPTION (RSA-OAEP) ===
+Public key used for encryption:
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoiN6KhTzmZ4YWfOphJs9
+ckgYq/NESjp0PTn3jG3L5Kbo1S5t2W11KZNZutb4WZr8okooYv4oipiyebu9Qa9N
+/D1jJDc6DQ4lXeKpVCaSXiQOKmRR1ZbOLgBmrjctSp+Mztw1OOa+NW2tLevyjR5C
+h43BvDi6dRKQYobs3tKuH94grKGKdrjJfjmK9ooxGe8CCehxvq9ed+wlgCRHyEKI
+1Q61Ly+5osjBcDjI7IG0UJehie1gH018F+FcoEoE6kHVxiu7J0RG1K7t+Fp0+jYS
+nRZfymO7/4fpsh412JctY00zJRO80g35lUQ2PrABM7SxorkROI9Pq16hFoAx1l0L
+owIDAQAB
+-----END PUBLIC KEY-----
+
+Private key used for decryption:
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiI3oqFPOZnhhZ
+86mEmz1ySBir80RKOnQ9OfeMbcvkpujVLm3ZbXUpk1m61vhZmvyiSihi/iiKmLJ5
+u71Br038PWMkNzoNDiVd4qlUJpJeJA4qZFHVls4uAGauNy1Kn4zO3DU45r41ba0t
+6/KNHkKHjcG8OLp1EpBihuze0q4f3iCsoYp2uMl+OYr2ijEZ7wIJ6HG+r1537CWA
+JEfIQojVDrUvL7miyMFwOMjsgbRQl6GJ7WAfTXwX4VygSgTqQdXGK7snREbUru34
+WnT6NhKdFl/KY7v/h+myHjXYly1jTTMlE7zSDfmVRDY+sAEztLGiuRE4j0+rXqEW
+gDHWXQujAgMBAAECggEAAknX5pInIgruMw7SXLHIOz2zQ3IKi7WpgFe6G7xM/Wwx
+qxidqkz2M2EGCjIQjUs3t56uVT9bGSGwmzFAKZYs1puTM6an5hlGA744P5zPwg5m
+OMjzsr0PKe0NhfX3aK850I2hHq17D8v9fsFuyfkcXUdt7ZcrYo2hhhJ7c2Wr2X1G
+W0INdg5qZbJ2wQSqCXE0DFPFwmz/bLdQoKJTwSRzsg2O4HyFqNk1lay8ZbGWFXah
+PbAjOLJb6w+qARAWVJNJqPcj9c5QqDs7GILgexqz6C8Hl0Ogz+I+XUwvLrJtUSc2
+uN88lNMnqSmQqIogQkcz2WfhPnCnMRsjyW726AlICQKBgQDZsOssJm26vdSWPHQj
+pAcQT1OckSPt/HTtSl/MN4Nqckdgrtm863SwdDW8H96iJReSKe380WaOWVFsRfji
+ByWm0yNeislodEePAAtz0BajsgTNhrAzGLQtA+9BF7PmaEakJ7AT6lsLnXDHmTnx
+QItMQmrZrHg8MreJ66auvQJGrwKBgQC+q+SqHWdwI4L/YxGb9fpZ61cXi26ytNOP
+reR6mu3veWcJw8ENOA57A6wg4jqEu8UN5zoV27e1uSSKB0O+PbcaH150JoFh9ikC
+msW8Qd9/1PIVXafj0B4drBghEUFe5dhf6tulkSWmM0QfMC0N5pR3MnBa4jCjum3U
+3SZbPvEHTQKBgBFrMqYpvQYAQo5y7+gaK+aGMm6IvpNAbCrAlMHGf2F5G3UFCK8x
+N/kWk2YmNq5KwYQUjtJ3/vjM9NLxFmUfpUegBWh/OnZ9N2yd2EzADc+zYub/LAIq
+q+AePHq85sw888oW0uQFEJvxUSDnhddkDsFfXyVjw4stk7oZfRDmVtRJAoGBAIi/
+yclEO3qOzZYS3H9JxJsXEah+RQ+AZzdmFTblxP56yK6VKfEsIh6R/LK87hFihiq5
+isxAgBqiRZWFLk3T/22Jz/ln4GV84d7PWD/z0rLg7Brsx8u46NCJK+kTchn4qN3q
+GEw/tIvlutbPe5C7rgFrOG/GR/I1dC41yhupIb8FAoGAHiDGYLyEI8IIi2NbXpGx
+9vP/7dFUxPMKUcfafioOxMew2C8QWsvmzsjzfhz2Q7jx+0MFDxxMyqMCycd4FseB
+qGx7GrdWLPGlLR2Ef2GfHpyOj9RKThMMTBJcKrQPX8SiUUaz2EbwoDgV2hf823ay
+aXxNRxrrGeBWTgktIbhuNYE=
+-----END PRIVATE KEY-----
+
+Input: Hello, this is my secret message!
+Encrypted output (Base64): nptqfGbzbXyUeK6DQJC4npQF+EZVftkQfoT+fUnUCw5KrxHZ5m6eZm7oMst304zXETVSHS9pGVjghcDIamODoUhfa7a2YKKxSpBfqY/c4FGcnR75dbTgw186Xnz5ZXV5bs4kKQVVV8p/+5985IOUYXYKWneLD9QFFLlomDsvvAUfbjNHVqZ1NlWCQxX6KyFK+HDC1tRVxJhbSzKt8WzvbN05ypYEi2RMUzEoM320tEmlhC4GwgHU5lkKUeOBN6CYYiv0LujJDz/i54kSN/iImFnaE4Rf6L5agKjTrGbj/hbTfGj53Ebvu75jXm8f7qQZhNhMvoZrSFY/ZGfpMJxg3A==
+Decrypted output: Hello, this is my secret message!

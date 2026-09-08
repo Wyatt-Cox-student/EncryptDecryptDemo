@@ -78,8 +78,7 @@ def asymmetric_demo(message):
 def main():
     report = (
         "ENCRYPTION AND DECRYPTION DEMO\n"
-        "These keys are generated only for this class demonstration.\n"
-        "Never use or publish real private keys this way.\n\n"
+        "These keys are generated only for this class.\n"
         + symmetric_demo(MESSAGE)
         + "\n"
         + asymmetric_demo(MESSAGE)
