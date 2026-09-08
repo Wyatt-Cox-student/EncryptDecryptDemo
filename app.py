@@ -25,7 +25,8 @@ def symmetric_demo(message):
         f"Key used for encryption and decryption: {key.decode('ascii')}\n"
         f"Input: {message}\n"
         f"Encrypted output: {encrypted.decode('ascii')}\n"
-        f"Decrypted output: {decrypted}\n"
+        # Remove hashtag from the next line if you want to see the decrypted output in results.txt 
+        # f"Decrypted output: {decrypted}\n"
     )
 
 
@@ -71,7 +72,8 @@ def asymmetric_demo(message):
         f"{private_pem}\n"
         f"Input: {message}\n"
         f"Encrypted output (Base64): {encrypted_text}\n"
-        f"Decrypted output: {decrypted}\n"
+        # Remove hashtag from the next line if you want to see the decrypted output in results.txt 
+        # f"Decrypted output: {decrypted}\n"
     )
 
 

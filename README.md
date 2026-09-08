@@ -22,3 +22,7 @@ Run the script with:
 python app.py
 
 The terminal will show whether both examples were successful. Open results.txt to see all the keys, inputs, and outputs. You can also change the MESSAGE variable near the top of app.py to try a different short message.
+
+
+NOTE: If you want to see the decrypted output, locate the lines of code with the # in front of them
+you will see a comment above them telling you what they are
